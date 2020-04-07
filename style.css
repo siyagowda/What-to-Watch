@@ -1,0 +1,129 @@
+body {
+  background-color: #99ffcc;
+  }
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+  padding: 35px
+}
+
+table {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+h4 {
+  font-family: "Lucida Console", Courier, monospace;
+  color: white;
+  height: 70px;
+  width: 100%;
+  text-align: center;
+}
+
+.purple {
+  text-align: center;
+  padding: 50px;
+  background-color: #eeccff;
+}
+
+.pink {
+  text-align: center;
+  padding: 50px;
+  background-color: #ffccff;
+}
+
+.grey {
+  text-align: center;
+  padding: 30px;
+  background-color: #d9d9d9;
+  opacity: 0%;
+}
+
+.style1 {
+  text-align: center;
+  padding: 30px;
+  background-color: #d9d9d9;
+  opacity: 100%;
+}
+
+.style2 {
+  height: 0px;
+}
+
+.hide {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+  opacity: 0%;
+}
+
+.hide:hover {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+  opacity: 100%;
+}table {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+h4 {
+  font-family: "Lucida Console", Courier, monospace;
+  color: white;
+  height: 70px;
+  width: 100%;
+  text-align: center;
+}
+
+.purple {
+  text-align: center;
+  padding: 50px;
+  background-color: #eeccff;
+}
+
+.pink {
+  text-align: center;
+  padding: 50px;
+  background-color: #ffccff;
+}
+
+.grey {
+  text-align: center;
+  padding: 30px;
+  background-color: #d9d9d9;
+  opacity: 0%;
+}
+
+.style1 {
+  text-align: center;
+  padding: 30px;
+  background-color: #d9d9d9;
+  opacity: 100%;
+}
+
+.style2 {
+  height: 0px;
+}
+
+.hide {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+  opacity: 0%;
+}
+
+.hide:hover {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+  opacity: 100%;
+}

@@ -1,0 +1,47 @@
+action:
+  baby driver
+  die hard
+  venom
+  kingsmans: secret service
+
+comedy:
+  hot fuzz
+  we're the millers
+  superbad
+  forrest gump
+
+romance:
+  benjamin
+  crazy rich asians
+  me before you
+  to all the boys i loved before
+
+teen:
+  the duff
+  10 things i hate about you
+  handsome devil
+  five feet apart
+
+fantasy:
+  fantastic beasts and where to find them
+  the last dragonslayer
+  black panther
+  avatar
+
+deep:
+  the way way back
+  about a boy
+  the fundamentals of caring
+  me and earl and the dying girl
+
+thriller:
+  the imitation game
+  the social network
+  interstellar
+  the martian
+
+animated:
+  shrek
+  finding nemo
+  tangled
+  mulan
